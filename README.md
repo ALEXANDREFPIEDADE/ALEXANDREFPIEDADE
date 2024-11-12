@@ -23,5 +23,5 @@ Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar alguns dos meus proj
 
 ## 📝  Projetos
 
-- [Projeto 1](https://github.com/seunome/projeto1)
+- [Página de notícias](https://github.com/ALEXANDREFPIEDADE/pagina-not-cia)
 - [Projeto 2](https://github.com/seunome/projeto2)
