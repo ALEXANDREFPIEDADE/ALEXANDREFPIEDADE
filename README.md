@@ -1,4 +1,4 @@
-# Olá, eu so ALEXANDRE 👋
+# Olá, eu sou ALEXANDRE 👋
 
 Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar alguns dos meus projetos de programação e contribuições para a comunidade.
 
